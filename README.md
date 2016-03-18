@@ -2,11 +2,11 @@
 
 ## Intro
 
-	Presentation for [Python Vigo](https://www.python-vigo.es) user group in March 17, 2016.
+Presentation for [Python Vigo](https://www.python-vigo.es) user group in March 17, 2016.
 
-	Uses [Hovercraft](https://github.com/regebro/hovercraft) lib to execute slideshow
+Uses [Hovercraft](https://github.com/regebro/hovercraft) lib to execute slideshow
 
-	Code examples are in *examples.py* file. Are intended for execute in python console.
+Code examples are in *examples.py* file. Are intended for execute in python console.
 
 ## Installation
 
