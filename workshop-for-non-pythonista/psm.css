@@ -33,7 +33,7 @@ ul {
 }
 
 li {
-    font-size: 125%;
+    font-size: 105%;
     font-family: serif;
     font-weight: normal;
     margin-bottom: 0.3em;
@@ -49,31 +49,6 @@ a {
     color: black;
 }
 
-
-#ThreeD H1 {
-    font-family: Racing Sans One;
-    font-size: 300%;
+.code {
+    text-align: left;
 }
-
-#muggle em {
-    font-family: Libre Baskerville;
-}
-
-#some-special-methods-1 h1, #some-special-methods-2 h1 {
-    font-size: 150%;
-}
-
-#some-special-methods-1 ul, #some-special-methods-2 ul {
-    font-family: Racing Sans One;
-    font-size: 70%;
-}
-
-#objects-initialization-1 .python, #attribute-access .python {
-    text-align: left
-}
-
-#resources-links li {
-    font-size: 80%
-
-}
-
