@@ -1,51 +1,34 @@
-# Python workshop
+# Python para no pythonistas [Taller]
 
-El taller está orientado a personas que tengan
-al menos conocimientos básicos de programación en 
-cualquier lenguaje y que quieran  conocer más en profundiad 
-herramientas y prácticas habituales en el ecosistema Python. 
+Taller de iniciación donde revisaremos herramientas y prácticas
+habituales en el ecosistema Python, como pip, pipenv, flake8 o black.
+Haremos un repaso a ejemplos de códigos "Pythonicos" y algunas
+bibliotecas y herramientas de tests.
 
-Si no eres programador pero habitualmente haces tus scripts 
-en Python también es para ti :-) 
+Está orientado a personas que tengan conocimientos básicos de
+programación en cualquier lenguaje y que quieran  conocer más
+en profundidad el ecosistema Python. Si no eres programador pero
+habitualmente haces scripts en Python también es para ti :-)
 
-
-http://docs.python-guide.org/en/latest/writing/style/
-https://gist.github.com/sloria/7001839
-
-
-* Introduction
-  - Python (https://www.python.org/)
-  - Official documentation (https://docs.python.org/3/library/)
-  - Python Enhancement Proposals (PEP's). PEP8, PEP20. (https://www.python.org/dev/peps/)
-* Running Python
-  - S.O & environments
-    - Install&Execute Python (pyenv:https://github.com/pyenv/pyenv)
-    - pip
-    - virtualenvs
-    - pipsi
-    - pipenv
-
-* Pythonic
-  - Idiomatic Python & Style
-  - Tools: flake8, isort
-
-* Tests
-  - https://docs.python.org/3/library/unittest.html
-  - https://docs.pytest.org/en/latest/
-
-PIP
-https://packaging.python.org/tutorials/installing-packages/
-```pip --version```
- 
-
-VENVS
-python3 -m venv
+Duración: 2 horas
+Plazas: 12
+Requisitos:
+    - Es necesario traer un ordenador portátil.
 
 
+# Python para non pythonistas [Obradoiro]
 
-PIPSI
+Obradoiro de iniciación onde revisaremos ferramentas e prácticas
+habituais no ecosistema Python, tales coma pip, pipenv, flake8 ou black.
+Faremos un repaso a exemplos de códigos "Pythonicos" e algunhas
+bibliotecas e ferramientas de tests.
 
-```➜  ~ cd .local/venvs/
-ansible/      bumpversion/  flake8/       invoke/       lektor/       pipsi/        tox/          whell/
-bpython/      docutils/     httpie/       isort/        pgcli/        pylint/       wheel/        youtube-dl/
-```
+Está orientado a persoas que teñan al menos conocimientos básicos de
+programación en calquer linguaxe e que queiran  coñecer mais
+en profundidade o ecosistema Python. Se non eres programador pero
+habitualmente fas scripts en Python tamén é para ti :-)
+
+Duración: 2 horas
+Prazas: 12
+Requisitos:
+    - É necesario traer un ordenador portátil.
