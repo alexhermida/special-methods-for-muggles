@@ -99,3 +99,9 @@ Experiencia en 3 procesos similares:
 ---
 
 ### ¿Preguntas?
+
+---
+
+### Extra content post-charla
+
+* Añado al repositorio algunos links útiles (useful_links.md)
